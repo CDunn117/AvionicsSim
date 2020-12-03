@@ -4,6 +4,7 @@
 * Most of the adpater code should be re-usable in the EADI as well as
 * the Symbol Generator systems.
 * CxFlow Demonstration
+* testing
 *
 * Gem Immanuel (gemify@simvionics.notreal)
 */
